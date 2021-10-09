@@ -1,4 +1,4 @@
-import self as self
+#import self as self
 from django.utils import timezone
 from django.db import models
 from django.contrib.auth.models import AbstractUser
